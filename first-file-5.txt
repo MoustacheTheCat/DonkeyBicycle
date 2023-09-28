@@ -1,4 +1,6 @@
-Hello Earth 
+
+Hello Earth $$
+>>>>>>> f0665f4 (add sign)
 
 Welcome in DonkeyBicycle the new paradise of the AI !!!
 
